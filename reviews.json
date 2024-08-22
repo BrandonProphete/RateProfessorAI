@@ -1,0 +1,130 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "review": "Incredibly knowledgeable and approachable.",
+        "subject": "Physics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "review": "Engaging lectures but unclear on assignments.",
+        "subject": "Literature",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "review": "Passionate about the subject; very helpful.",
+        "subject": "History",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "review": "Great feedback on papers but strict on deadlines.",
+        "subject": "Mathematics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "review": "Fantastic at simplifying complex concepts.",
+        "subject": "Chemistry",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Laura Miller",
+        "review": "Too much coursework and not enough support.",
+        "subject": "Biology",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. James Garcia",
+        "review": "Interesting discussions, but often goes off-topic.",
+        "subject": "Political Science",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Patricia Martinez",
+        "review": "Great at providing real-world examples.",
+        "subject": "Economics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Robert Rodriguez",
+        "review": "Mediocre lecturer, not very engaging.",
+        "subject": "Art History",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Linda Lee",
+        "review": "Very supportive; her office hours are great.",
+        "subject": "Psychology",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Thomas Walker",
+        "review": "Content is challenging, but worth it.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Charles Hall",
+        "review": "Often unresponsive to student questions.",
+        "subject": "Statistics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Barbara Young",
+        "review": "A very dynamic professor who makes learning enjoyable.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Joseph Hernandez",
+        "review": "Material was outdated and not very applicable.",
+        "subject": "Philosophy",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Sally King",
+        "review": "Encouraging, and values student input.",
+        "subject": "Music",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. William Wright",
+        "review": "Difficult to follow and unorganized lectures.",
+        "subject": "Engineering",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Jessica Scott",
+        "review": "Inspiring teacher who is very approachable.",
+        "subject": "Environmental Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Richard Green",
+        "review": "Great communicator, but workload can be overwhelming.",
+        "subject": "Mathematics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Angela Adams",
+        "review": "Very knowledgeable but challenging tests.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Ronald Baker",
+        "review": "Not engaging; material feels boring.",
+        "subject": "Chemistry",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Michelle Nelson",
+        "review": "Helped me develop critical thinking skills.",
+        "subject": "Literature",
+        "stars": 5
+      }
+    ]
+  }
