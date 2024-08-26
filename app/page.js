@@ -2,7 +2,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import { useState } from "react";
-import { Box, Button, Stack, TextField } from "@mui/material";
+import { Box, Button, Stack, TextField, Typography } from "@mui/material";
 
 export default function Home() {
   const [messages, setMessages] = useState([
@@ -59,6 +59,9 @@ export default function Home() {
     justifyContent="center"
     alignItems="center"
   >
+
+<Typography variant="h2" style={{ marginTop: '-20px' }}>CourseCritic.co</Typography>
+
     <Stack
       direction={'column'}
       width="500px"
